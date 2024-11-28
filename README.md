@@ -12,20 +12,6 @@ I'm a passionate **Front-End Developer** with a strong foundation in **React**, 
 
 ---
 
-## 🔥 Featured Project: **Studio Bad Dogs**
-A responsive and interactive website showcasing professional web development services. This project incorporates:
-
-- **Bootstrap 5** for responsive layouts and modern components.
-- **Custom CSS** for tailored design elements.
-- **Web Accessibility Features** for an inclusive experience.
-- **SEO Best Practices** for optimized performance and visibility.
-
-Check out the live demo or explore the code:
-- [Live Demo](#) <!-- Add the live demo link -->
-- [Repository](#) <!-- Add the repository link -->
-
----
-
 ## Skills & Tools
 - **Languages & Libraries:** HTML, CSS, JavaScript, React
 - **Frameworks & Tools:** Bootstrap, WordPress, WooCommerce
