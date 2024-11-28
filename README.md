@@ -46,14 +46,14 @@ I'm expanding my skills in:
 ## 🤝 Let's Collaborate!
 I'm always excited to work on **Front-End Development** and **Web Accessibility** projects. Whether it's building user-friendly websites, debugging code, or discussing new ideas, feel free to reach out!
 
-📧 Email: fabrizio.contu@example.com <!-- Replace with your email -->
-🌍 Portfolio: [fabriziocontu.dev](#) <!-- Add your portfolio link -->
+📧 Email: fab.contu@gmail.com <!-- Replace with your email -->
+🌍 Portfolio: [WORK IN PROGRESS](#) <!-- Add your portfolio link -->
 💼 LinkedIn: [Fabrizio Contu](https://linkedin.com/in/fabriziocontu)
 
 ---
 
 ## 📈 GitHub Stats
-![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabrizioContu&show_icons=true&theme=radical)
 
 ---
 
