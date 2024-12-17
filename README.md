@@ -24,7 +24,7 @@ I'm a passionate **Front-End Developer** with a strong foundation in **React**, 
 ## 🌱 Currently Learning
 I'm expanding my skills in:
 - Advanced Web Accessibility Practices
-- TypeScript and Next.js
+- TypeScript and Astro
 - API Integration
 
 ---
