@@ -1,4 +1,4 @@
-<img width="164" alt="profile" style="border-radius: 50%" src="https://github.com/user-attachments/assets/60bf534c-a408-43c4-8565-c9e7618b620e" />
+<img width="164" alt="profile" style="border-radius: 50" src="https://github.com/user-attachments/assets/60bf534c-a408-43c4-8565-c9e7618b620e" />
 
 # 👋 Hi, I'm Fabrizio Contu
 
