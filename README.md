@@ -1,5 +1,6 @@
+<img width="164" alt="profile" class="border: rounded" src="https://github.com/user-attachments/assets/60bf534c-a408-43c4-8565-c9e7618b620e" />
 # 👋 Hi, I'm Fabrizio Contu
-<img width="164" alt="profile" src="https://github.com/user-attachments/assets/60bf534c-a408-43c4-8565-c9e7618b620e" />
+
 
 ### Front-End Developer | Web Accessibility Enthusiast | Creative Problem-Solver
 
