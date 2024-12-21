@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Fabrizio Contu
 
 
-### Front-End Developer | Web Accessibility Enthusiast | Creative Problem-Solver
+### Front-End Developer | Web Accessibility Enthusiast
 
 ---
 
