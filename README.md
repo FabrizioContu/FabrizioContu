@@ -21,7 +21,7 @@ I'm a passionate **Front-End Developer** with a strong foundation in **React**, 
 ## Skills & Tools
 - **Languages & Libraries:** HTML, CSS, JavaScript, React
 - **Frameworks & Tools:** Bootstrap, WordPress, WooCommerce
-- **Design:** Figma, Adobe XD
+- **Design:** Figma
 - **SEO & Accessibility:** Basic SEO strategies, Web Content Accessibility Guidelines (WCAG)
 - **Version Control:** Git, GitHub
 
