@@ -39,7 +39,7 @@ I'm expanding my skills in:
 I'm always excited to work on **Front-End Development** and **Web Accessibility** projects. Whether it's building user-friendly websites, debugging code, or discussing new ideas, feel free to reach out!
 
 📧 Email: fab.contu@gmail.com <!-- Replace with your email -->
-🌍 Portfolio: [WORK IN PROGRESS](#) <!-- Add your portfolio link -->
+🌍 Portfolio: https://fabriziocontudev.netlify.app/ <!-- Add your portfolio link -->
 💼 LinkedIn: [Fabrizio Contu](https://linkedin.com/in/fabriziocontu)
 
 ---
