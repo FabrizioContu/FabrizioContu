@@ -40,7 +40,7 @@ I'm always excited to work on **Front-End Development** and **Web Accessibility*
 
 📧 Email: fab.contu@gmail.com <!-- Replace with your email -->
 🌍 Portfolio: https://fabriziocontudev.netlify.app/ <!-- Add your portfolio link -->
-💼 LinkedIn: [Fabrizio Contu](https://linkedin.com/in/fabriziocontu)
+💼 LinkedIn: [Fabrizio Contu](https://linkedin.com/in/fabrizio-contu-9b179b12a/)
 
 ---
 
