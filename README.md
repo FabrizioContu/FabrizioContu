@@ -45,7 +45,7 @@ I'm always excited to work on **Front-End Development** and **Web Accessibility*
 ---
 
 ## 📈 GitHub Stats
-![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabrizioContu&show_icons=true&theme=radical)
+![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioContu&show_icons=true&theme=radica)
 
 ---
 
