@@ -44,11 +44,7 @@ I'm always excited to work on **Front-End Development** and **Web Accessibility*
 
 ---
 
-## 📈 GitHub Stats
-![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioContu&show_icons=true&theme=radica)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabrizioContu&theme=dark&show_icons=true)
----
 
 ## 🏅 Achievements
 - Completed a certified **Front-End Programming Bootcamp** focusing on **React**.
